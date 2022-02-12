@@ -1,0 +1,11 @@
+USE golf;
+INSERT INTO Delta (PersonNr,Namn) VALUES ('19970114-0631','Big Golf Cup Skövde');
+INSERT INTO Delta (PersonNr,Namn) VALUES ('19860610-5522','Big Golf Cup Skövde');
+INSERT INTO Delta (PersonNr,Namn) VALUES ('20010913-8731','Big Golf Cup Skövde');
+INSERT INTO Delta (PersonNr,Namn) VALUES ('19790329-7712','Flåkrypa Grand Prix');
+INSERT INTO Delta (PersonNr,Namn) VALUES ('19820516-9900','Flåkrypa Grand Prix');
+INSERT INTO Delta (PersonNr,Namn) VALUES ('20031224-9068','Järntrean Open');
+INSERT INTO Delta (PersonNr,Namn) VALUES ('20000101-0000','Järntrean Open');
+INSERT INTO Delta (PersonNr,Namn) VALUES ('19911019-2525','Swedish Masters');
+INSERT INTO Delta (PersonNr,Namn) VALUES ('19950804-6118','Swedish Masters');
+INSERT INTO Delta (PersonNr,Namn) VALUES ('19661122-0169','Flåkrypa Grand Prix');
